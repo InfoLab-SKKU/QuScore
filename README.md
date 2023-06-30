@@ -1,4 +1,4 @@
-# NXGen: Stealthy Interpretation-guided Query-efficient Black-box Attack against Interpretable Deep Learning
+# Stealthy Query-Efficient Black-Box Attack against Interpretable Deep Learning
 
 ## Install environment
 
