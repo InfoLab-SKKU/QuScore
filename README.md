@@ -1,6 +1,6 @@
 # Stealthy Query-Efficient Black-Box Attack against Interpretable Deep Learning
 
-Deep neural network (DNN) models are susceptible to adversarial samples in white and black-box environments.
+Deep neural network (DNN) models are susceptible to adversarial samples in white- and black-box environments.
 Although previous studies have shown high attack success rates, coupling DNN models with interpretation models could offer a sense of security when a human expert is involved, who can identify whether a given sample is benign or malicious. However, in white-box environments, interpretable deep learning systems (IDLSes) have been shown to be vulnerable to malicious manipulations.
 
 ## Install environment
