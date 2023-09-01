@@ -6,7 +6,7 @@ interpretation model. QuScore is based on transfer-based and score-based methods
 
 ## Install environment
 
-Use `my_env.yaml` file to install correct versions of packages and to run the code
+Use `my_env.yaml` file to install the correct versions of packages and to run the code
 
 ## How to run the code
 
