@@ -38,3 +38,19 @@ max_queries | Maximum number of queries to send to the blackbox model
 mr | Mutation rate for the genetic algorithm
 num_attack | the amount of images to be attacked
 defense_method | Defense algorithm to test the attack robustness (*RP, BitDepthReduce, JPEG, MedianSmoothing2D*)
+
+## Citation
+We would appreciate it if you could cite our work when using our code.
+
+```bibtex
+@ARTICLE{10947356,
+  author={Abdukhamidov, Eldor and Abuhamad, Mohammed and Woo, Simon S. and Chan-Tin, Eric and Abuhmed, Tamer},
+  journal={IEEE Transactions on Reliability}, 
+  title={Stealthy Query-Efficient Opaque Attack Against Interpretable Deep Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TR.2025.3551717}
+}
+```
